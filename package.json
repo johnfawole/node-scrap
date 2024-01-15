@@ -1,0 +1,19 @@
+{
+  "name": "node-scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "learn.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "John Fawole",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
